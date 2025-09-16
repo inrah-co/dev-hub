@@ -2,6 +2,4 @@ This is the website that built completely using HTML, and no use of any CSS or J
 
 On top of the page -> there must be 2 nav bar -> 1st nav bar with -> Dev1 and Dev2 txt and link lead to Developer 1 page and Developer 2 page
 
-2nd Nav bar must have 3 pages -> 1. semantic tag 2. Rare use tags 3. Media page where media like -> images, audio, video must have to be placed
-
-Try to cover most of the tags from the w3 schools
+2nd nav bar are the a tag that lead to the section in the page -> predefined code is made -> just add the code in devisions (id = semantic, rare, media)
